@@ -45,7 +45,8 @@ export default {
   name: "HomeView",
   data() {
     return {
-      weather_api_key: `cb62ef21e5ea457f93f90536221307`,
+      // put your WEATHER API KEY here 
+      weather_api_key: `weather_api_key_goes_here`,
       base_url: `https://api.weatherapi.com/v1/`,
       search_url: `https://api.weatherapi.com/v1/search.json`,
       current_weather_url: `https://api.weatherapi.com/v1/current.json`,
