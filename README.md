@@ -1,4 +1,14 @@
-# weether
+# **weether** - Weather App
+
+## Used Technologies
+
+- Vue.js
+- scss
+- weatherapi [view docs](https://www.weatherapi.com/docs/)
+- Vue CLI
+- Npm
+
+---
 
 ## Project setup
 ```
