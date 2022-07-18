@@ -1,9 +1,9 @@
 # **weether** - Weather App
 
 in order to use this app you have to 
-1- open an acount in [weatherapi](https://www.weatherapi.com) and get the api key
-2- go to src/view/HomeView.vue 
-3- paste your api key in weather_api_key variable
+1. open an acount in [weatherapi](https://www.weatherapi.com) and get the api key
+2. go to src/view/HomeView.vue 
+3. paste your api key in weather_api_key variable
 
 ## Used Technologies
 
